@@ -1,5 +1,5 @@
 # Hi, I'm Ferhat Ozgur Catak
-I am an **artificial intelligence** & **security researcher** at *NTNU Norwegian University of Science and Technology*. 
+I am an **artificial intelligence** & **security researcher** at *Simula Research Laboratory*. 
 
 :point_right: **My research interests :**
 
