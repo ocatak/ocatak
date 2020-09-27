@@ -1,5 +1,5 @@
 # Hi, I'm Ferhat Ozgur Catak
-I am an **artificial intelligence** & **security researcher** at *Simula Research Laboratory*. 
+I am an **Artificial Intelligence** & **Security Researcher** at **Simula Research Laboratory**. 
 
 :point_right: **My research interests :**
 
