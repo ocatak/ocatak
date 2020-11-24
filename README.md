@@ -1,7 +1,7 @@
 # Hi, I'm Ferhat Ozgur Catak
 I am an Artificial Intelligence and Cyber Security Researcher. I currently live in Oslo, Norway.
 
-My complete curriculum vitae is available at this (link)[https://www.linkedin.com/in/ozgurcatak/]. For more information about my research, you can also visit my GitHub and Google scholar profiles.
+My complete curriculum vitae is available at this [link](https://www.linkedin.com/in/ozgurcatak/). For more information about my research, you can also visit my GitHub and Google scholar profiles.
 
 I am interested in Data Privacy and Cyber Security for machine learning and deep learning, covering the theoretical, applicative, and computational aspects. My primary research interests lie broadly in deep learning.
 
