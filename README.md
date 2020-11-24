@@ -1,14 +1,16 @@
 # Hi, I'm Ferhat Ozgur Catak
-I am an **Artificial Intelligence** & **Security Researcher**. 
+I am an Artificial Intelligence and Cyber Security Researcher. I currently live in Oslo, Norway.
 
-:point_right: **My research interests :**
+My complete curriculum vitae is available at this link. For more information about my research, you can also visit my GitHub and Google scholar profiles.
 
-- :hash: Cyber Security
-- :hash: Malware Analysis
-- :hash: Artificial Intelligence
-- :hash: Machine/Deep Learning Methods for Cyber-Security, 
-- :hash: Distributed machine learning
-- :hash: Homomorphic encryption based Privacy-preserving machine learning. 
+I am interested in Data Privacy and Cyber Security for machine learning and deep learning, covering the theoretical, applicative, and computational aspects. My primary research interests lie broadly in deep learning.
+
+- Cyber Security
+- Malware Analysis
+- Artificial Intelligence
+- Machine/Deep Learning Methods for Cyber-Security, 
+- Distributed machine learning
+- Homomorphic encryption based Privacy-preserving machine learning. 
 
 :arrow_forward: My personal website: [https://www.ozgurcatak.org](https://www.ozgurcatak.org)
 
