@@ -17,3 +17,5 @@ I am interested in Data Privacy and Cyber Security for machine learning and deep
 :arrow_forward: Google Scholar: [https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en](https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en)
 
 :arrow_forward: ResearchGate: [https://www.researchgate.net/profile/Ferhat_Ozgur_Catak](https://www.researchgate.net/profile/Ferhat_Ozgur_Catak)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ocatak&show_icons=true&theme=dracula)
