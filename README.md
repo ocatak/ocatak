@@ -3,6 +3,11 @@ I am an Artificial Intelligence and Cyber Security Researcher.
 
 My complete curriculum vitae is available at this [link](https://www.linkedin.com/in/ozgurcatak/). For more information about my research, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Ferhat_Ozgur_Catak) and [Google scholar](https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en) profiles.
 
+### My networks
+[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ozgurcatak)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ozgurcatak/)
+[![Medium URL](https://img.shields.io/static/v1?color=blue&label=medium&logo=medium&logoColor=white&style=for-the-badge&message=Follow)](https://f-ozgur-catak.medium.com)
+
 I am interested in Data Privacy and Cyber Security for machine learning and deep learning, covering the theoretical, applicative, and computational aspects. My primary research interests lie broadly in deep learning.
 
 - Cyber Security
