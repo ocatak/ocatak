@@ -17,7 +17,7 @@ I am interested in Data Privacy and Cyber Security for machine learning and deep
 - Distributed machine learning
 - Homomorphic encryption based Privacy-preserving machine learning. 
 
-:arrow_forward: My personal website: [https://www.ozgurcatak.org](https://www.ozgurcatak.org)
+:arrow_forward: My personal website: [https://ocatak.github.io](https://ocatak.github.io)
 
 :arrow_forward: Google Scholar: [https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en](https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en)
 
