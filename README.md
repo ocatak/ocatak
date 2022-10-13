@@ -1,7 +1,18 @@
 # F. Ozgur Catak
-I am an Artificial Intelligence and Cyber Security Researcher. 
 
 My complete curriculum vitae is available at this [link](https://www.linkedin.com/in/ozgurcatak/). For more information about my research, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Ferhat_Ozgur_Catak) and [Google scholar](https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en) profiles.
+
+### 5G/6G Cyber Security
+
+So far, we have developed security methods for AI-based
+
+- __Beamforming__
+- __MIMO systems__
+- __Spectrum sensing__
+- __Channel estimation__
+- __Intelligent-reflective surfaces__
+
+Details: https://ozgurcatak.net/5g-6g-security-privacy/
 
 ### My networks
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ozgurcatak)
