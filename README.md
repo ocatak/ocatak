@@ -2,7 +2,7 @@
 
 My complete curriculum vitae is available at this [link](https://www.linkedin.com/in/ozgurcatak/). For more information about my research, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Ferhat_Ozgur_Catak) and [Google scholar](https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en) profiles.
 
-### 5G/6G Cyber Security
+# 5G/6G Cyber Security
 
 So far, we have developed security methods for AI-based
 
