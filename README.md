@@ -12,7 +12,7 @@ So far, we have developed security methods for AI-based
 - __Channel estimation__
 - __Intelligent-reflective surfaces__
 
-Details: https://ozgurcatak.net/5g-6g-security-privacy/
+Details: https://www.ozgurcatak.net/5g-6g-security-privacy/
 
 ### My networks
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ozgurcatak)
