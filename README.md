@@ -2,17 +2,21 @@
 
 My complete curriculum vitae is available at this [link](https://www.linkedin.com/in/ozgurcatak/). For more information about my research, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Ferhat_Ozgur_Catak) and [Google scholar](https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en) profiles.
 
-# 5G/6G Cyber Security
+## AI Security, Privacy, and Trustworthiness
 
-So far, we have developed security methods for AI-based
+I am focused on designing security frameworks that enhance the **privacy** and **trustworthiness** of AI-driven systems. This includes:
 
-- __Beamforming__
-- __MIMO systems__
-- __Spectrum sensing__
-- __Channel estimation__
-- __Intelligent-reflective surfaces__
+- **AI Model Robustness**
+- **Data Privacy in AI Applications**
+- **Trustworthy Machine Learning**
+- **Adversarial Machine Learning**
+- **Federated Learning Security**
 
-Details: https://www.ozgurcatak.net/5g-6g-security-privacy/
+These areas play a crucial role in ensuring the safe deployment of AI systems across various domains, addressing risks in data leakage, manipulation, and misuse.
+
+- :arrow_forward: **New Book**: Check out my latest book, ["Trustworthy AI: From Theory to Practice"](https://a.co/d/cntqf6Q), where I explore the theoretical foundations and practical implementations of trustworthiness in AI systems.
+
+- :arrow_forward: More details are available at my [personal website](https://www.ozgurcatak.net/ai-security-privacy-trustworthiness/).
 
 ### My networks
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ozgurcatak)
