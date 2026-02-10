@@ -1,8 +1,9 @@
 # Ferhat Ozgur Catak
 
 **Associate Professor of Cyber Security**  
-Department of Electrical Engineering & Computer Science  
-University of Stavanger, Norway
+Associate Professor of Cyber Security | Trustworthy AI & Quantum Machine Learning
+IEEE Senior Member | Chair, IEEE ComSoc Norway
+University of Stavanger
 
 [![Website](https://img.shields.io/badge/Website-ozgurcatak.net-blue)](https://www.ozgurcatak.net/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com/citations?user=qPzUoDYAAAAJ&hl=en)
@@ -14,7 +15,11 @@ University of Stavanger, Norway
 
 ## About Me
 
-I am an Associate Professor at the University of Stavanger, specializing in Cyber Security. My research focuses on enhancing the security, privacy, and trustworthiness of AI-driven systems, particularly in the context of 5G/6G and beyond wireless networks. I am passionate about developing robust frameworks that ensure the safe deployment of AI technologies across various domains.
+I am an Associate Professor of Cyber Security at the University of Stavanger working on
+trustworthy AI, quantum machine learning, and secure communication systems.
+My research focuses on uncertainty-aware, adversarially robust, and
+privacy-preserving AI for critical infrastructures and next-generation networks.
+
 
 ---
 
