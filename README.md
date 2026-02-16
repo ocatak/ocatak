@@ -21,10 +21,6 @@ I work at the intersection of:
 
 ---
 
-<p align="center">
-  <img src="assets/research-ecosystem.svg" alt="Research ecosystem graph" width="950">
-</p>
-
 
 ## ⭐ Featured Projects
 
