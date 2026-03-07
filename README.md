@@ -1,6 +1,6 @@
 # Ferhat Ozgur Catak
 
-**Associate Professor of Cyber Security — University of Stavanger**  
+**Professor of Cyber Security — University of Stavanger**  
 Building **Trustworthy AI for Critical Infrastructure** through secure machine learning, uncertainty quantification, and quantum-enhanced methods.
 
 IEEE Senior Member • Chair, IEEE ComSoc Norway
